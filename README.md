@@ -4,14 +4,14 @@ Halaman ucapan ulang tahun interaktif yang dapat dipersonalisasi hanya dengan me
 
 ## 🌐 Demo
 
-**[Lihat demo: Happy Birthday Nova](https://digilib.bibliothee.web.id/happybirthdayto/?name=Nova)**
+**[Lihat demo: Happy Birthday Maryam](https://digilib.bibliothee.web.id/happybirthdayto/?name=Maryam)**
 
 Contoh URL lain:
 
 ```text
 https://digilib.bibliothee.web.id/happybirthdayto/?name=Julaika
 https://digilib.bibliothee.web.id/happybirthdayto/?name=Yustina
-https://digilib.bibliothee.web.id/happybirthdayto/?name=Nova
+https://digilib.bibliothee.web.id/happybirthdayto/?name=Maryam
 https://digilib.bibliothee.web.id/happybirthdayto/?name=Nur%20Aisyah
 ```
 
